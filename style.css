@@ -107,3 +107,67 @@ a{
 
 }
 
+.Flexible-Recipy{
+
+    display: flex;
+    
+}
+
+.Recipy-Width{
+
+    width: 20%;
+
+}
+
+.Caeser{
+
+    margin-left: 10%;
+    box-shadow: 10px 10px 35px gray;
+    border: 1px solid tomato;
+    border-radius: 15px;
+}
+
+    
+.Caeser img{
+
+    height: 40%;
+    width: 90%;
+    padding: 15px 10px 5px 15px; 
+
+}
+
+.Caeser h2,p{
+
+    width: 80%;
+    padding-left: 20px;
+    padding-right: 10px;
+    text-align: center;
+
+
+}
+
+.Steam-Steak{
+
+    margin-left: 10%;
+    box-shadow: 10px 10px 35px gray;
+    border: 1px solid tomato;
+    border-radius: 15px;
+
+}
+
+.Steam-Steak img{
+
+    height: 40%;
+    width: 90%;
+    padding: 15px 10px 5px 15px; 
+
+}
+
+.Steam-Steak h2,p{
+
+    width: 80%;
+    padding-left: 20px;
+    padding-right: 10px; 
+    text-align: center;  
+
+}
