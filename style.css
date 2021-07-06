@@ -176,7 +176,7 @@ a{
 
 .Curry-Chiken{
 
-    margin-left: 15%;
+    margin-left: 14%;
     margin-right: 20%;
     box-shadow: 10px 10px 35px gray;
     border: 1px solid tomato;
@@ -201,5 +201,46 @@ a{
     padding-left: 20px;
     padding-right: 10px; 
 
+
+}
+
+.Socials{
+
+    display: flex;
+    width: 60%;
+    margin:15% 20%;
+
+    box-shadow: 10px 10px 35px grey;
+    border: 1px solid white;
+    border-radius: 15px;
+
+}
+
+
+#Youtube{
+
+    color: red;
+    font-weight: bold;
+
+}
+
+
+#Instagram{
+
+    color: salmon;
+    font-weight: bold;
+
+}
+
+#Dribble{
+
+    color: palevioletred;
+    font-weight: bold;
+
+}
+
+.Socials p{
+
+    padding-left: 150px;
 
 }
