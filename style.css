@@ -21,7 +21,7 @@ body{
     margin-top: 10%;
     margin-left: 20%;
 
-    box-shadow: 10px 10px 35px gray;
+    box-shadow: 10px 10px 20px gray;
 	width: 40%;
 
 	margin-left: 10%;
@@ -31,6 +31,7 @@ body{
     padding-top: 10px;
 
     border-left: 10px solid;
+    border-radius: 20px;
 	border-image: linear-gradient(orange,red) ;
 	border-image-slice: 1;
 
@@ -115,7 +116,7 @@ a{
 
 .Recipy-Width{
 
-    width: 20%;
+    width: 60%;
 
 }
 
@@ -130,9 +131,12 @@ a{
     
 .Caeser img{
 
-    height: 40%;
+    height: 45%;
     width: 90%;
-    padding: 15px 10px 5px 15px; 
+    padding-top: 10%;
+    padding-right: 5%;
+    padding-left: 5%;
+    
 
 }
 
@@ -141,14 +145,12 @@ a{
     width: 80%;
     padding-left: 20px;
     padding-right: 10px;
-    text-align: center;
-
 
 }
 
 .Steam-Steak{
 
-    margin-left: 10%;
+    margin-left: 5%;
     box-shadow: 10px 10px 35px gray;
     border: 1px solid tomato;
     border-radius: 15px;
@@ -156,11 +158,12 @@ a{
 }
 
 .Steam-Steak img{
-
-    height: 40%;
+    height: 45%;
     width: 90%;
-    padding: 15px 10px 5px 15px; 
-
+    padding-top: 10%;
+    padding-right: 5%;
+    padding-left: 5%;
+    
 }
 
 .Steam-Steak h2,p{
@@ -168,6 +171,35 @@ a{
     width: 80%;
     padding-left: 20px;
     padding-right: 10px; 
-    text-align: center;  
+
+}
+
+.Curry-Chiken{
+
+    margin-left: 15%;
+    margin-right: 20%;
+    box-shadow: 10px 10px 35px gray;
+    border: 1px solid tomato;
+    border-radius: 15px;
+
+}
+
+.Curry-Chiken img{
+
+    height: 270px;
+    width: 90%;
+    padding-top: 10%;
+    padding-right: 5%;
+    padding-left: 5%;
+    
+
+}
+
+.Curry-Chiken h2,p{
+
+    width: 80%;
+    padding-left: 20px;
+    padding-right: 10px; 
+
 
 }
