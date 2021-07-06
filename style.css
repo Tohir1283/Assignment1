@@ -128,23 +128,14 @@ a{
     border-radius: 15px;
 }
 
-    
-.Caeser img{
 
-    height: 45%;
-    width: 90%;
-    padding-top: 10%;
-    padding-right: 5%;
-    padding-left: 5%;
-    
-
-}
 
 .Caeser h2,p{
 
     width: 80%;
     padding-left: 20px;
     padding-right: 10px;
+    
 
 }
 
@@ -157,8 +148,8 @@ a{
 
 }
 
-.Steam-Steak img{
-    height: 45%;
+.Recipy-Image{
+    height: 270px;
     width: 90%;
     padding-top: 10%;
     padding-right: 5%;
@@ -184,16 +175,7 @@ a{
 
 }
 
-.Curry-Chiken img{
 
-    height: 270px;
-    width: 90%;
-    padding-top: 10%;
-    padding-right: 5%;
-    padding-left: 5%;
-    
-
-}
 
 .Curry-Chiken h2,p{
 
@@ -242,5 +224,30 @@ a{
 .Socials p{
 
     padding-left: 150px;
+
+}
+
+.BG{
+
+    width: 100%;
+    background-color: black;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+#Food{
+
+    color: tomato;
+    font-size: 2rem;
+    font-weight: bold;
+    margin-left: 24%;
+
+}
+
+#white{
+
+    color: white;
+    margin-left: 25%;
 
 }
