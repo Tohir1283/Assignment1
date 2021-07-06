@@ -4,6 +4,33 @@ body{
 
 }
 
+.menu{
+
+    width: 100%;
+	background-color: salmon;
+	direction: flex;
+	justify-content: flex-start;
+	padding: 15px;
+    position: fixed;
+
+}
+
+.Nav-Button{
+
+	text-decoration: none;
+	padding: 20px;
+	color: white;
+
+}
+
+.Nav-Button:hover{
+
+	background-color: skyblue;
+    font-weight: bold;
+	color: black;
+	border-radius: 20px;
+}
+
 .flexible-content{
 
     display: flex;
@@ -57,7 +84,7 @@ body{
 
 }
 
-a{
+.Button{
 
     text-decoration: none;
     background-image: linear-gradient(yellow,red);
